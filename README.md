@@ -58,7 +58,7 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 <!-- <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  --><!-- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></p>  -->
 
-<p><img align="left" src="https://github-readme-stats-ksan.vercel.app/api/top-langs?username=ksanbormukhim&show_icons=true&locale=en&layout=compact&hide=css&lang_count=20" alt="ksanbormukhim" /></p>
+<p><img align="left" src="https://github-readme-stats-ksan.vercel.app/api/top-langs?username=ksanbormukhim&show_icons=true&locale=en&layout=compact&hide=css,html&lang_count=20" alt="ksanbormukhim" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-ksan.vercel.app/api?username=ksanbormukhim&show_icons=true&locale=en&custom_title=Stats&hide_rank=true" alt="ksanbormukhim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksanbormukhim&" alt="ksanbormukhim" /></p>

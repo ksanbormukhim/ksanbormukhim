@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ksanbor Mukhim</h1>
+<h1 align="center">Hi 👋, I'm
+<pre> _     _ _______ _______ __   _ ______   _____   ______
+ |____/  |______ |_____| | \  | |_____] |     | |_____/
+ |    \_ ______| |     | |  \_| |_____] |_____| |    \_
+</pre>
+</h1>
+
+
 <h3 align="center">A Fullstack Developer from Meghalaya, India</h3>
 <h4 align="center"> Currently working at NESAC (North Eastern Space Applications Centre) </h4> 
 

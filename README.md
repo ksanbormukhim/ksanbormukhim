@@ -25,14 +25,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-
-
-
-
-<p><img align="left" src="https://leetcard.jacoblin.cool/ksanbormukhim?theme=light&cache=0" alt="ksanbormukhim" /></p>
 <p><img align="left" src="https://github-readme-stats-ksan.vercel.app/api/top-langs?username=ksanbormukhim&show_icons=true&locale=en&layout=compact&hide=css,html&lang_count=20" alt="ksanbormukhim" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-ksan.vercel.app/api?username=ksanbormukhim&show_icons=true&locale=en&custom_title=Stats&hide_rank=true" alt="ksanbormukhim" /></p>
-
+<p><img align="center" src="https://github-readme-stats-ksan.vercel.app/api?username=ksanbormukhim&show_icons=true&locale=en&custom_title=Stats&hide_rank=true" alt="ksanbormukhim" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksanbormukhim&" alt="ksanbormukhim" /></p>
+<p><img align="left" src="https://leetcard.jacoblin.cool/ksanbormukhim?theme=light&cache=0" alt="ksanbormukhim" /></p>
 

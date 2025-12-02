@@ -1,32 +1,29 @@
-<h1 align="center">Hi 👋, I'm
-<pre>_     _ _______ _______ __   _ ______   _____   ______
-|____/  |______ |_____| | \  | |_____] |     | |_____/
-|    \_ ______| |     | |  \_| |_____] |_____| |    \_
-</pre>
-</h1>
+# Hi 👋, I'm Ksanbor Mukhim
 
+### A budding Developer
 
-<h3 align="center">Comp. Sci. Engg. from Meghalaya, India</h3>
-<h4 align="center"> Research Scientist at NESAC (North Eastern Space Applications Centre) </h4> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksanbormukhim" alt="ksanbormukhim" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ksanbormukhim&label=Profile%20views&color=0e75b6&style=flat" alt="ksanbormukhim" /> </p>
+- 🔭 I'm currently working on **SmartAxom Project under ASDMA-NESAC**
 
-<!--<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ksanbormukhim&theme=onedark" alt="ksanbormukhim" /> </p>-->
-
-
+- 🌱 I'm currently learning **Farming Egg Laying Chicken**
 
 - 📫 How to reach me **ksanbormukhim@protonmail.com**
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/ksanbormukhim" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ksanbormukhim" height="30" width="40" />leetcode.com/ksanbormukhim
-</a>
+<a href="https://github.com/ksanbormukhim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ksanbormukhim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ksanbormukhim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ksanbormukhim" height="30" width="40" /></a>
+<a href="https://instagram.com/ksanbormukhim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ksanbormukhim" height="30" width="40" /></a>
+<a href="https://leetcode.com/ksanbormukhim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ksanbormukhim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p><img align="left" src="https://github-readme-stats-ksan.vercel.app/api/top-langs?username=ksanbormukhim&show_icons=true&locale=en&layout=compact&hide=css,html&lang_count=20" alt="ksanbormukhim" /></p>
-<p><img align="center" src="https://github-readme-stats-ksan.vercel.app/api?username=ksanbormukhim&show_icons=true&locale=en&custom_title=Stats&hide_rank=true" alt="ksanbormukhim" /></p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/d3js" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=d3" alt="d3js" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksanbormukhim&show_icons=true&locale=en&layout=compact" alt="ksanbormukhim" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ksanbormukhim&show_icons=true&locale=en" alt="ksanbormukhim" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksanbormukhim&" alt="ksanbormukhim" /></p>
-<p><img align="left" src="https://leetcard.jacoblin.cool/ksanbormukhim?theme=light&cache=0" alt="ksanbormukhim" /></p>
 

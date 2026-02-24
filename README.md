@@ -1,6 +1,8 @@
 # Hi 👋, I'm Ksanbor Mukhim
 
-### A budding Developer
+### Research Scientist | React Native Developer | IT Specialist
+
+Based in **Shillong, Meghalaya**, I specialize in bridging the gap between complex geospatial data and user-friendly mobile interfaces. Currently, I am a **Research Scientist at NESAC**, where I’m involve in mobile development efforts for critical state infrastructure projects.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksanbormukhim" alt="ksanbormukhim" /></a> </p>
 

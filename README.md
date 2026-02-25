@@ -3,6 +3,15 @@
 ### Research Scientist | React Native Developer | IT Specialist
 
 Based in **Shillong, Meghalaya**, I specialize in bridging the gap between complex geospatial data and user-friendly mobile interfaces. Currently, I am a **Research Scientist at NESAC**, where I’m involve in mobile development efforts for critical state infrastructure projects.
+---
+### 🏛 Professional Experience
+
+**Research Scientist | NESAC (North Eastern Space Applications Centre)** *Feb 2024 – Present*
+
+- Lead developer for the **SmartAxom Project** (ASDMA-NESAC collaboration).
+- Developing robust mobile and web templates for disaster management and resource mapping.
+- Focusing on high-performance GIS integration within mobile environments.
+---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksanbormukhim" alt="ksanbormukhim" /></a> </p>
 

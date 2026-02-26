@@ -12,7 +12,8 @@ Based in **Shillong, Meghalaya**, I specialize in bridging the gap between compl
 - Developing robust mobile and web templates for disaster management and resource mapping.
 - Focusing on high-performance GIS integration within mobile environments.
 ---
-
+### 🌱 Beyond the Code
+---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksanbormukhim" alt="ksanbormukhim" /></a> </p>
 
 - 🔭 I'm currently working on **SmartAxom Project under ASDMA-NESAC**

@@ -13,8 +13,10 @@ Based in **Shillong, Meghalaya**, I specialize in bridging the gap between compl
 - Focusing on high-performance GIS integration within mobile environments.
 ---
 ### 🌱 Beyond the Code
+When I'm not debugging or optimizing geodata, I'm likely exploring sustainable farming. I have a keen interest in poultry, specifically egg-laying chickens—applying the same precision I use in code to local agriculture.
+
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksanbormukhim" alt="ksanbormukhim" /></a> </p>
+
 
 - 🔭 I'm currently working on **SmartAxom Project under ASDMA-NESAC**
 
